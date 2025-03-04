@@ -28,5 +28,6 @@ public class test {
 
         double result = calc.calculator();
         System.out.println("Resultatet er: " + result);
+        lineBreak();
     }
 }
